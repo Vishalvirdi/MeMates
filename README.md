@@ -1,39 +1,30 @@
-# ✨ Full Stack Realtime Chat App ✨
+# 💬 ChatMate - Real-Time Chat Application
 
+ChatMate is a modern real-time chat application built with **React, Tailwind CSS, Node.js, Express**. It provides a seamless and interactive chatting experience with an intuitive UI.
 
-Highlights:
+## 🚀 Features
+✅ Real-time messaging  
+✅ User authentication (Login/Signup)  
+✅ AI-powered chatbot using **OpenAI's GPT-3.5 Turbo (o3 mini model)**  
+✅ AI image generation powered by **Hugging Face**  
+✅ Typing indicators  
+✅ Read receipts  
+✅ Responsive UI with **Tailwind CSS & Daisy UI**  
+✅ Secure backend with **Node.js & Express**  
 
-- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
-- 🎃 Authentication && Authorization with JWT
-- 👾 Real-time messaging with Socket.io
-- 🚀 Online user status
-- 👌 Global state management with Zustand
-- 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
-- ⏳ And much more!
+## 🎥 Demo Video  
+https://github.com/user-attachments/assets/3c4cb7f5-8f7e-4e6c-b745-cecaf8b8955b  
 
-### Setup .env file
+> If the video does not load, click [here](https://github.com/user-attachments/assets/3c4cb7f5-8f7e-4e6c-b745-cecaf8b8955b) to watch it.  
 
-```js
-MONGODB_URI=...
-PORT=5001
-JWT_SECRET=...
+## 🌐 Live Demo  
+🔗 [Try ChatMate Now](https://chatmate-dez7.onrender.com/)  
 
-CLOUDINARY_CLOUD_NAME=...
-CLOUDINARY_API_KEY=...
-CLOUDINARY_API_SECRET=...
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS, Daisy UI  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT  
+- **AI Chatbot:** OpenAI GPT-3.5 Turbo (o3 mini model)  
+- **AI Image Generation:** Hugging Face  
 
-NODE_ENV=development
-```
-
-### Build the app
-
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm start
-```
