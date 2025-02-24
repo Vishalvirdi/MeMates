@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/3c4cb7f5-8f7e-4e6c-b745-cecaf8b8955b
 > If the video does not load, click [here](https://github.com/user-attachments/assets/3c4cb7f5-8f7e-4e6c-b745-cecaf8b8955b) to watch it.  
 
 ## 🌐 Live Demo  
-🔗 [Try ChatMate Now](https://chatmate-dez7.onrender.com/)  
+🔗 https://chatmate-dez7.onrender.com/
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, Tailwind CSS, Daisy UI  
